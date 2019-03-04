@@ -1,3 +1,4 @@
 language: java
-java:
- - script: mvn test # uses the default stage name "test"
+
+after_success:
+- mvn clean cobertura:cobertura coveralls:report

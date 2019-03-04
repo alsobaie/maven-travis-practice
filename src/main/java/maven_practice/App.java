@@ -8,6 +8,6 @@ public class App
 {
  
     public static int addN(){
-    	return 55;
+    	return 5;
     }
 }

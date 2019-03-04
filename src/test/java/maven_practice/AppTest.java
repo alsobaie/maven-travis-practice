@@ -32,6 +32,6 @@ public class AppTest
 
     @Test
     public void testM(){
-        assertEquals( App.m() , 5 );
+        assertEquals( App.m() , 10 );
     }    
 }

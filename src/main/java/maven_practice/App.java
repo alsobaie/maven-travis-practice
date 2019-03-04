@@ -6,12 +6,8 @@ package maven_practice;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-
+ 
     public static int addN(){
-    	return 5;
+    	return 55;
     }
 }

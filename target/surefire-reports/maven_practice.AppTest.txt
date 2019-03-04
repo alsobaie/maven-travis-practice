@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: maven_practice.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! - in maven_practice.AppTest
+testAddN(maven_practice.AppTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: expected:<3> but was:<4>
+	at maven_practice.AppTest.testAddN(AppTest.java:24)
+

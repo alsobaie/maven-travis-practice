@@ -1,6 +1,7 @@
 package maven_practice;
 
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
@@ -16,5 +17,10 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+    }
+
+    @Test
+    public void testAddN(){
+    	assertEquals( App.addN() , 4 );
     }
 }

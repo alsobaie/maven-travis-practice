@@ -23,4 +23,9 @@ public class AppTest
     public void testAddN(){
     	assertEquals( App.addN() , 5 );
     }
+
+    @Test
+    public void testN(){
+        assertEquals( App.n() , 5 );
+    }
 }

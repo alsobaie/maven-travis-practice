@@ -28,14 +28,5 @@ public class AppTest
     public void testN(){
         assertEquals( App.n() , 5 );
     }
-
-    @Test
-    public void testK(){
-        assertEquals( App.k() , 5 );
-    }
-
-    @Test
-    public void testM(){
-        assertEquals( App.m() , 5 );
-    }    
+    
 }

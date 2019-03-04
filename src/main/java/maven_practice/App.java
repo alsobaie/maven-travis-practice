@@ -11,7 +11,7 @@ public class App
     	return 5;
     }
 
-    public statis int n(){
+    public static int n(){
     	return 5;
     }
 }

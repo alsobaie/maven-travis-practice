@@ -12,6 +12,6 @@ public class App
     }
 
     public static int addN(){
-    	return 3;
+    	return 5;
     }
 }

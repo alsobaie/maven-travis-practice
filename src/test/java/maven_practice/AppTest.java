@@ -33,4 +33,9 @@ public class AppTest
     public void testK(){
         assertEquals( App.k() , 5 );
     }
+
+    @Test
+    public void testM(){
+        assertEquals( App.m() , 5 );
+    }    
 }

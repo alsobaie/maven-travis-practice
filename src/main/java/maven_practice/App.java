@@ -18,4 +18,8 @@ public class App
     public static int k(){
     	return 5;
     }
+
+    public static int m(){
+    	return 5;
+    }
 }

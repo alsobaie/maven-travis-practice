@@ -21,6 +21,6 @@ public class AppTest
 
     @Test
     public void testAddN(){
-    	assertEquals( App.addN() , 6 );
+    	assertEquals( App.addN() , 7 );
     }
 }

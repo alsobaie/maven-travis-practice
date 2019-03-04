@@ -21,7 +21,6 @@ public class AppTest
 
     @Test
     public void testAddN(){
-        App();
     	assertEquals( App.addN() , 5 );
     }
 

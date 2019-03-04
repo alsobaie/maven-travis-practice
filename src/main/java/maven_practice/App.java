@@ -7,10 +7,6 @@ package maven_practice;
 public class App 
 {
  
-    public static int addN(){
-    	return 5;
-    }
-
     public static int n(){
     	return 5;
     }

@@ -20,12 +20,8 @@ public class AppTest
     }
 
     @Test
-    public void testAddN(){
-    	assertEquals( App.addN() , 5 );
-    }
-
-    @Test
     public void testN(){
+        new App();
         assertEquals( App.n() , 5 );
     }
 
